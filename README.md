@@ -1,6 +1,6 @@
 <div align="center">
   
-![White Cat](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=🐱+Welcome+to+my+space;Where+code+meets+curiosity)
+!(https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+space;)
 
 </div>
 
