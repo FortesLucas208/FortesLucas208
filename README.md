@@ -6,22 +6,7 @@
 
 </div>
 
-
-
-#  About Me 
-  
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=650&color=FFFFFF&center=true&vCenter=true&width=600&lines=.+.+.;)
-
-
-#  My Socials
-<div>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-fortes-de-melo)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000)](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=650&color=FFFFFF&center=true&vCenter=true&width=600&lines=Still+in+production;)
-
-
-</div>
+# Still working on it.
 
 
 
