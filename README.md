@@ -1,25 +1,30 @@
+<!-- that's actually funny to do -->
+
 <div align="center">
   
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+space;)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=650&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+space;)
 
 </div>
 
----
 
+
+#  About Me 
 <div align="center">
-  <img src="https://media.giphy.com/media/jIQHfIKzFRAxQxEUMT/giphy.gif" width="200" alt="White Cat">
+  
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=650&color=FFFFFF&center=true&vCenter=true&width=600&lines=.+.+.;)
+
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=bold&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi!+I'm+Lucas+Fortes+🐾;Always+curious+about+code" alt="Typing animation">
-</h1>
+#  My Socials
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-fortes-de-melo)
 
-## 🐱 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000)]
+([https://](https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=3000&pause=650&color=FFFFFF&center=true&vCenter=true&width=600&lines=Still+in+production;))
 
 
-
+</div>
 
 
 
