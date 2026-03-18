@@ -9,11 +9,9 @@
 
 
 #  About Me 
-<div>
   
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=650&color=FFFFFF&center=true&vCenter=true&width=600&lines=.+.+.;)
 
-</div>
 
 #  My Socials
 <div>
